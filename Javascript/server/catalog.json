@@ -1,0 +1,32 @@
+[
+    {
+        "id": "el1",
+        "name": "Parksons ST-40 bk",
+        "img": "https://img.muzline.ua/image/cache/catalog/PARKSONS-ST-40-BK-1-228x228.jpg",
+        "price": 2500
+    },
+    {
+        "id": "el2",
+        "name": "Parksons ST-40 3TSB",
+        "img": "https://img.muzline.ua/image/cache/catalog/PARKSONS-ST-40-3SB-228x228.jpg",
+        "price": 3400
+    },
+    {
+        "id": "el3",
+        "name": "Parksons ST-30 2STB",
+        "img": "https://img.muzline.ua/image/cache/catalog/PARKSONS-ST-40-3SB-228x228.jpg",
+        "price": 2900
+    },
+    {
+        "id": "el4",
+        "name": "J8 ST HMG 101 MG",
+        "img": "https://img.muzline.ua/image/cache/catalog/J8-ST-HMG-101-WH-228x228.jpg",
+        "price": 2400
+    },
+    {
+        "id": "el5",
+        "name": "J5 ST HMF 121 HG",
+        "img": "https://img.muzline.ua/image/cache/catalog/PARKSONS-ST-40-3SB-228x228.jpg",
+        "price": 3200
+    }
+]
