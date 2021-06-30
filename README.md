@@ -1,1 +1,1 @@
-🎸Guitar Shop🎸 (http-server,JS,SCSS,HTML) no frameworks
+🎸Guitar Shop🎸 (http-server,JS,SCSS,HTML,Parcel) no frameworks
